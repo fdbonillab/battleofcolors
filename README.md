@@ -5,6 +5,8 @@ battle of colors is a game based on two minigames: it takes part of bomberman an
 
 https://www.youtube.com/watch?v=I4yoBnkPdk8
 
+https://img.youtube.com/vi/I4yoBnkPdk8/0.jpg
+
 [https://www.youtube.com/watch?v=I4yoBnkPdk8](https://img.youtube.com/vi/I4yoBnkPdk8/0.jpg)
 
-[![Mira el video en YouTube](https://github.com/usuario/repo/raw/main/images/miniatura.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Mira el video en YouTube](https://img.youtube.com/vi/I4yoBnkPdk8/0.jpg)](https://www.youtube.com/watch?v=I4yoBnkPdk8)
